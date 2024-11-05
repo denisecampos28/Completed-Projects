@@ -1,2 +1,2 @@
 # Completed-Projects
-This repository contains a collection of coding projects I've completed throughout my studies in Data Science and Mathematics.
+Welcome! This repository showcases several of the projects I've worked on as a Data Science major with a concentration in Mathematics. Each project reflects my technical skills and passion for data-driven problem-solving, covering areas such as data analysis, machine learning, statistical modeling, and algorithm development. If you’re exploring my work as a potential employer, I hope you enjoy seeing how I approach complex challenges through code. Thank you for taking the time to review my portfolio!
